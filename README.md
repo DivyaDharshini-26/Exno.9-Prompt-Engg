@@ -32,7 +32,7 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
-**OUTPUT:**
+# OUTPUT:
 
 # Algorithm / Procedure:
 
@@ -54,71 +54,133 @@ Compare outputs to analyze how prompt variations affect results.
 
 Document the differences in quality, movement, and style.
 
+# 🧩 Overall Theme:
+All three images depict a cute humanoid robot painting another robot’s portrait on a large canvas in an indoor art studio. The setting and composition remain the same, but the lighting, color tone, and style differ, showing variations in artistic design or AI generation.
+
+
 # Runway Gen-2 Prompt:
-Prompt 1:
+# Prompt:
 
-“A cute robot painting on a canvas in a minimalist Japanese art studio, anime-inspired style with soft lighting and smooth horizontal camera motion.”
+# “A cute robot painting on a canvas in a minimalist Japanese art studio, anime-inspired style with soft lighting and smooth horizontal camera motion.”
 
-Observation:
+# 🎨 Image 1 (PHOTO 1.jpeg) — Daylight Cartoon Style
+Details:
 
-The image shows a simple and clean environment with soft lighting.
+Lighting: Bright and warm, lit by yellow bulbs suggesting a daytime or early evening scene.
 
-The art style appears inspired by anime, emphasizing smooth shading and calm tones.
+Style: Clean cartoon or anime style, possibly hand-drawn or 2D digital art.
 
-The robot design is rounded and minimalistic, matching the Japanese aesthetic.
+Robot Appearance: Smooth white body with light black joints and cyan eyes.
 
-The background includes plants and gentle daylight, giving a serene studio feel.
-Output Characteristics:
+Canvas Drawing: A colorful sketch of another robot with simple crayon-like strokes (red, yellow, green).
 
-Style: Anime-like, clean, minimalist
+Background: Organized wooden studio with paint jars, brushes, and shelves visible.
 
-Lighting: Natural daylight, soft tones
+Content Description:
+A small robot stands in a cozy art studio, painting a playful sketch of another robot on a canvas. The soft lighting and neat setup give a peaceful and creative atmosphere, showing the robot’s artistic side.
 
-Mood: Calm and peaceful
-
-Detail Level: Moderate (simple textures and soft lines)
 
 <img width="1836" height="1013" alt="image" src="https://github.com/user-attachments/assets/051481e3-1d59-4af5-bca3-828b79cf86a7" />
 
-Prompt 2:
+# 🖼️ IMAGE 1 – Warm Cartoon Style
 
-“An animated clip of a cute robot painting on a canvas in a bright art studio, cartoon style with soft pastel colors and smooth camera pan.”
-
-Observation:
-
-The image shows a colorful, cartoon-style studio with visible wooden beams and hanging lights.
-
-The robot appears more mechanical, with multicolored paint markings.
-
-The environment is more detailed and vibrant, featuring jars and tools.
-
-The overall look feels more Western-cartoon inspired than anime.
-Output Characteristics:
-
-Style: Cartoon animation
-
-Lighting: Artificial indoor lights, warm tone
-
-Mood: Playful and energetic
-
-Detail Level: High (visible textures, shadows, and props)
-
-<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/7bc42d73-03c0-4b19-ab76-18b8b6d9fcc7" />
-
-# Comparison of Outputs for Different Prompts (Runway Gen-2)
-
-| Aspect             | **Prompt 1: Japanese Anime Style** | **Prompt 2: Cartoon Pastel Style** |
-| ------------------ | ---------------------------------- | ---------------------------------- |
-| **Art Style**      | Anime-inspired, minimalist         | Cartoon-inspired, vibrant          |
-| **Lighting**       | Natural, soft daylight             | Warm artificial lights             |
-| **Color Palette**  | Muted pastels, calm tones          | Bright and saturated               |
-| **Robot Design**   | Simple, smooth body                | Detailed with paint streaks        |
-| **Background**     | Clean and tidy studio              | Cluttered, realistic art setup     |
-| **Mood / Emotion** | Peaceful and calm                  | Fun and lively                     |
-| **Camera Focus**   | Steady, side angle                 | Dynamic, slightly panning          |
-| **Visual Quality** | Balanced and smooth                | Rich detail, energetic tone        |
+| **Feature**    | **Details**             |
+| -------------- | ----------------------- |
+| **Lighting**   | Warm yellow bulbs       |
+| **Mood**       | Calm and creative       |
+| **Style**      | Cartoon / 2D art        |
+| **Robot Look** | White body, blue eyes   |
+| **Canvas Art** | Simple colorful sketch  |
+| **Colors**     | Red, yellow, green      |
+| **Theme**      | Robot learning to paint |
+| **Feel**       | Soft and friendly       |
 
 
+
+# 🌌 Image 2 (PHOTO 2.png) — Neon Sci-Fi Style
+Details:
+
+Lighting: Cooler and more futuristic, with blue and violet glows replacing the warm yellow bulbs.
+
+Style: Neon light art, with glowing outlines and a slightly reflective metallic texture on the robot.
+
+Robot & Painting: The robot and its canvas art now glow with bright neon lines (green, cyan, pink, and yellow), emphasizing a tech-inspired creative theme.
+
+Mood: Feels more futuristic and advanced, like a cyberpunk art studio.
+
+Content Description:
+
+In a futuristic studio lit by neon blue lights, a glowing robot paints its own kind using vibrant neon colors. The atmosphere feels digital and advanced, symbolizing creativity in artificial intelligence and modern technology.
+
+<img width="1344" height="768" alt="PHOTO 2" src="https://github.com/user-attachments/assets/a1c6d39c-a0cd-468c-8de3-761f16a2df9c" />
+
+
+# 🌌 IMAGE 2 – Neon Futuristic Style
+
+| **Feature**    | **Details**                 |
+| -------------- | --------------------------- |
+| **Lighting**   | Cool blue and purple glow   |
+| **Mood**       | Futuristic and digital      |
+| **Style**      | Neon / Sci-fi art           |
+| **Robot Look** | Shiny with neon lines       |
+| **Canvas Art** | Bright glowing sketch       |
+| **Colors**     | Blue, pink, green, yellow   |
+| **Theme**      | AI creativity in the future |
+| **Feel**       | Modern and high-tech        |
+
+
+# 🌇 Image 3 (PHOTO 3.png) — Warm Evening Glow
+Details:
+
+Lighting: Balanced warm and soft purple tones — looks like sunset or soft indoor light.
+
+Style: Smooth blend between cartoon and semi-realistic render, with warm shadows and detailed lighting.
+
+Robot Appearance: Glossy metallic body with soft pastel reflections.
+
+Canvas: Similar neon-style painting but with warmer tint, giving a cozy and balanced artistic mood.
+
+Content Description:
+
+A robot paints under a warm studio light, combining the glow of neon art with the calm of a wooden interior. The scene mixes technology and emotion, portraying art as a universal expression — even for machines.
+
+<img width="1344" height="768" alt="PHOTO 3" src="https://github.com/user-attachments/assets/f2f7a4b2-9eec-4f0f-ae63-fc4b6fc07bc8" />
+
+
+# 🌇 IMAGE 3 – Warm Evening Glow
+
+| **Feature**    | **Details**                   |
+| -------------- | ----------------------------- |
+| **Lighting**   | Soft purple and warm light    |
+| **Mood**       | Peaceful and artistic         |
+| **Style**      | Semi-realistic blend          |
+| **Robot Look** | Glossy with soft glow         |
+| **Canvas Art** | Warm neon-style sketch        |
+| **Colors**     | Pink, yellow, green           |
+| **Theme**      | Mix of emotion and technology |
+| **Feel**       | Balanced and expressive       |
+
+# ⚖️ Comparison Table – Robot Painting Videos
+
+| **Feature**      | **Video 1**                      | **Video 2**                               | **Video 3**                           |
+| ---------------- | -------------------------------- | ----------------------------------------- | ------------------------------------- |
+| **Lighting**     | Warm yellow light (daytime feel) | Cool blue & neon light (night/futuristic) | Soft warm-purple light (evening mood) |
+| **Style**        | Cartoon / 2D animation           | Neon sci-fi animation                     | Semi-realistic warm animation         |
+| **Robot Look**   | White matte body, simple design  | Shiny metallic body with neon lines       | Glossy pastel body with reflections   |
+| **Canvas Art**   | Colorful sketch in crayons       | Glowing neon outline art                  | Warm neon art with soft glow          |
+| **Mood**         | Calm and creative                | Futuristic and digital                    | Peaceful and emotional                |
+| **Theme**        | Robot learning traditional art   | Robot expressing digital creativity       | Fusion of emotion and technology      |
+| **Color Tone**   | Red, yellow, green               | Blue, pink, green, yellow                 | Pink, yellow, green (warm mix)        |
+| **Background**   | Wooden studio with natural light | Same studio with neon glow                | Studio under soft light blend         |
+| **Overall Feel** | Simple and friendly              | Modern and high-tech                      | Balanced and expressive               |
+
+
+# 🪶 Conclusion
+
+These three images collectively explore how artificial intelligence and creativity intersect through visual storytelling.
+The robot painter symbolizes how machines are learning human-like creativity.
+The first image reflects the simplicity of artistic exploration, the second shows futuristic digital expression, and the third harmonizes emotion and technology under warm lighting.
+Together, they portray a journey from mechanical imitation to soulful creation.
 
 # Result: The Prompt of the above task executed successfully
 
